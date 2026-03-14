@@ -1,0 +1,13 @@
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_module_plugin.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/qt_internal_plugins.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_ui.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/edit_cache.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/rebuild_cache.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/list_install_components.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/install.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/install/local.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/install/strip.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_module_plugin_autogen.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_ui_autogen_timestamp_deps.dir
+/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_ui_autogen.dir

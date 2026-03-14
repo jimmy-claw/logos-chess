@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/chess">
+        <file>ChessBoard.qml</file>
+    </qresource>
+</RCC>

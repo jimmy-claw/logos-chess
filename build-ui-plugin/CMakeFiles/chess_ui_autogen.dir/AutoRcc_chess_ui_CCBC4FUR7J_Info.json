@@ -1,0 +1,20 @@
+{
+	"BUILD_DIR" : "/home/jimmy/logos-chess/build-ui-plugin/chess_ui_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jimmy/logos-chess/build-ui-plugin",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jimmy/logos-chess/build-ui-plugin",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jimmy/logos-chess",
+	"CMAKE_SOURCE_DIR" : "/home/jimmy/logos-chess",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/jimmy/logos-chess/build-ui-plugin/chess_ui_autogen/include",
+	"INPUTS" : [ "/home/jimmy/logos-chess/qml/ChessBoard.qml" ],
+	"LOCK_FILE" : "/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_ui_autogen.dir/AutoRcc_chess_ui_CCBC4FUR7J_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "chess_ui" ],
+	"OUTPUT_CHECKSUM" : "CCBC4FUR7J",
+	"OUTPUT_NAME" : "qrc_chess_ui.cpp",
+	"RCC_EXECUTABLE" : "/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_ui_autogen.dir/AutoRcc_chess_ui_CCBC4FUR7J_Used.txt",
+	"SOURCE" : "/home/jimmy/logos-chess/qml/chess_ui.qrc",
+	"VERBOSITY" : 0
+}
