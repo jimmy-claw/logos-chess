@@ -67,12 +67,12 @@ include CMakeFiles/chess_ui_autogen_timestamp_deps.dir/compiler_depend.make
 include CMakeFiles/chess_ui_autogen_timestamp_deps.dir/progress.make
 
 CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/libQt6Qml.so.6.9.2
-CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/libexec/moc
-CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/libQt6Core.so.6.9.2
-CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/libQt6Widgets.so.6.9.2
-CMakeFiles/chess_ui_autogen_timestamp_deps: /tmp/logos-liblogos-merged/lib/liblogos_core.so
-CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/libQt6RemoteObjects.so.6.9.2
 CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/libQt6QuickWidgets.so.6.9.2
+CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/libQt6Core.so.6.9.2
+CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/libexec/moc
+CMakeFiles/chess_ui_autogen_timestamp_deps: /tmp/logos-liblogos-merged/lib/liblogos_core.so
+CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/libQt6Widgets.so.6.9.2
+CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/libQt6RemoteObjects.so.6.9.2
 CMakeFiles/chess_ui_autogen_timestamp_deps: /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/libQt6Quick.so.6.9.2
 
 chess_ui_autogen_timestamp_deps: CMakeFiles/chess_ui_autogen_timestamp_deps

@@ -1221,1326 +1221,6 @@ chess_ui_autogen/timestamp: /home/jimmy/logos-chess/CMakeLists.txt \
   /usr/share/cmake-3.28/Modules/Platform/Linux.cmake \
   /usr/share/cmake-3.28/Modules/Platform/UnixPaths.cmake
 
-CMakeFiles/chess_ui.dir/chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp.o: chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp \
-  /usr/include/stdc-predef.h
-
-CMakeFiles/chess_ui.dir/chess_ui_autogen/mocs_compilation.cpp.o: chess_ui_autogen/mocs_compilation.cpp \
-  /home/jimmy/logos-chess/src/chess_ui_component.h \
-  chess_ui_autogen/UVLADIE3JM/moc_chess_ui_component.cpp \
-  /home/jimmy/logos-chess/interfaces/IComponent.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QObject \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QtPlugin \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q17memory.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20algorithm.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20functional.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20iterator.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20memory.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20type_traits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20utility.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q23type_traits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q23utility.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qalgorithms.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qanystringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydata.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydataops.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydatapointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qassert.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qatomic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qatomic_cxx11.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbasicatomic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbindingstorage.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearray.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearrayalgorithms.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearraylist.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearrayview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcalendar.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcborcommon.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcborvalue.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qchar.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcompare.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcompare_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcomparehelpers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcompilerdetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qconfig.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qconstructormacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontainerfwd.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontainerinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontainertools_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontiguouscache.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdarwinhelpers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdatastream.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdatetime.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdebug.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qendian.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qexceptionhandling.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qflags.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qfloat16.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qforeach.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qfunctionaltools_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qfunctionpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qgenericatomic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qglobalstatic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qhash.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qhashfunctions.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiodevicebase.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiterable.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiterator.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsondocument.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsonobject.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsonparseerror.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsonvalue.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlatin1stringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qline.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlist.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlocale.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlogging.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmalloc.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmargins.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmath.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmetacontainer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmetatype.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qminmax.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qnamespace.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qnumeric.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobject.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobject_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobjectdefs.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobjectdefs_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qoverload.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpair.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qplugin.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpoint.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qprocessordetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qrect.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qrefcount.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qregularexpression.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qscopedpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qscopeguard.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qset.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qshareddata.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qshareddata_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsharedpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsharedpointer_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsize.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qspan.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstdlibdetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstring.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringalgorithms.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringbuilder.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringconverter.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringconverter_base.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringfwd.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringlist.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringliteral.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringmatcher.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringtokenizer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qswap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsysinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsystemdetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtaggedpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtclasshelpermacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtconfiginclude.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtconfigmacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtcore-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtcoreexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtcoreglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtdeprecationdefinitions.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtdeprecationmarkers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtenvironmentvariables.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtextstream.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtformat_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtmetamacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtmocconstants.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtmochelpers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtnoop.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtpreprocessorsupport.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtresource.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qttranslation.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qttypetraits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtversion.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtversionchecks.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtypeinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtypes.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qurl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qutf8stringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/quuid.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qvariant.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qvarlengtharray.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qversiontagging.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qxptype_traits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qyieldcpu.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qaction.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qbitmap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qbrush.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qcolor.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qcursor.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfont.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfontinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfontmetrics.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfontvariableaxis.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qicon.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qimage.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qkeysequence.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpaintdevice.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpalette.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpixelformat.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpixmap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpolygon.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qregion.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qrgb.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qrgba64.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtgui-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtguiexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtguiglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtransform.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qwindowdefs.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/QWidget \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qsizepolicy.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qtwidgets-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qtwidgetsexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qtwidgetsglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qwidget.h \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/assert.h \
-  /usr/include/c++/13/algorithm \
-  /usr/include/c++/13/array \
-  /usr/include/c++/13/atomic \
-  /usr/include/c++/13/backward/auto_ptr.h \
-  /usr/include/c++/13/backward/binders.h \
-  /usr/include/c++/13/bit \
-  /usr/include/c++/13/bits/algorithmfwd.h \
-  /usr/include/c++/13/bits/align.h \
-  /usr/include/c++/13/bits/alloc_traits.h \
-  /usr/include/c++/13/bits/allocated_ptr.h \
-  /usr/include/c++/13/bits/allocator.h \
-  /usr/include/c++/13/bits/atomic_base.h \
-  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
-  /usr/include/c++/13/bits/basic_string.h \
-  /usr/include/c++/13/bits/basic_string.tcc \
-  /usr/include/c++/13/bits/char_traits.h \
-  /usr/include/c++/13/bits/charconv.h \
-  /usr/include/c++/13/bits/chrono.h \
-  /usr/include/c++/13/bits/concept_check.h \
-  /usr/include/c++/13/bits/cpp_type_traits.h \
-  /usr/include/c++/13/bits/cxxabi_forced.h \
-  /usr/include/c++/13/bits/cxxabi_init_exception.h \
-  /usr/include/c++/13/bits/enable_special_members.h \
-  /usr/include/c++/13/bits/erase_if.h \
-  /usr/include/c++/13/bits/exception.h \
-  /usr/include/c++/13/bits/exception_defines.h \
-  /usr/include/c++/13/bits/exception_ptr.h \
-  /usr/include/c++/13/bits/functexcept.h \
-  /usr/include/c++/13/bits/functional_hash.h \
-  /usr/include/c++/13/bits/hash_bytes.h \
-  /usr/include/c++/13/bits/hashtable.h \
-  /usr/include/c++/13/bits/hashtable_policy.h \
-  /usr/include/c++/13/bits/invoke.h \
-  /usr/include/c++/13/bits/ios_base.h \
-  /usr/include/c++/13/bits/list.tcc \
-  /usr/include/c++/13/bits/locale_classes.h \
-  /usr/include/c++/13/bits/locale_classes.tcc \
-  /usr/include/c++/13/bits/localefwd.h \
-  /usr/include/c++/13/bits/memory_resource.h \
-  /usr/include/c++/13/bits/memoryfwd.h \
-  /usr/include/c++/13/bits/move.h \
-  /usr/include/c++/13/bits/nested_exception.h \
-  /usr/include/c++/13/bits/new_allocator.h \
-  /usr/include/c++/13/bits/node_handle.h \
-  /usr/include/c++/13/bits/ostream_insert.h \
-  /usr/include/c++/13/bits/parse_numbers.h \
-  /usr/include/c++/13/bits/postypes.h \
-  /usr/include/c++/13/bits/predefined_ops.h \
-  /usr/include/c++/13/bits/ptr_traits.h \
-  /usr/include/c++/13/bits/range_access.h \
-  /usr/include/c++/13/bits/refwrap.h \
-  /usr/include/c++/13/bits/requires_hosted.h \
-  /usr/include/c++/13/bits/shared_ptr.h \
-  /usr/include/c++/13/bits/shared_ptr_atomic.h \
-  /usr/include/c++/13/bits/shared_ptr_base.h \
-  /usr/include/c++/13/bits/specfun.h \
-  /usr/include/c++/13/bits/std_abs.h \
-  /usr/include/c++/13/bits/std_function.h \
-  /usr/include/c++/13/bits/stl_algo.h \
-  /usr/include/c++/13/bits/stl_algobase.h \
-  /usr/include/c++/13/bits/stl_bvector.h \
-  /usr/include/c++/13/bits/stl_construct.h \
-  /usr/include/c++/13/bits/stl_function.h \
-  /usr/include/c++/13/bits/stl_heap.h \
-  /usr/include/c++/13/bits/stl_iterator.h \
-  /usr/include/c++/13/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/13/bits/stl_iterator_base_types.h \
-  /usr/include/c++/13/bits/stl_list.h \
-  /usr/include/c++/13/bits/stl_map.h \
-  /usr/include/c++/13/bits/stl_multimap.h \
-  /usr/include/c++/13/bits/stl_multiset.h \
-  /usr/include/c++/13/bits/stl_numeric.h \
-  /usr/include/c++/13/bits/stl_pair.h \
-  /usr/include/c++/13/bits/stl_raw_storage_iter.h \
-  /usr/include/c++/13/bits/stl_relops.h \
-  /usr/include/c++/13/bits/stl_set.h \
-  /usr/include/c++/13/bits/stl_tempbuf.h \
-  /usr/include/c++/13/bits/stl_tree.h \
-  /usr/include/c++/13/bits/stl_uninitialized.h \
-  /usr/include/c++/13/bits/stl_vector.h \
-  /usr/include/c++/13/bits/stream_iterator.h \
-  /usr/include/c++/13/bits/streambuf.tcc \
-  /usr/include/c++/13/bits/streambuf_iterator.h \
-  /usr/include/c++/13/bits/string_view.tcc \
-  /usr/include/c++/13/bits/stringfwd.h \
-  /usr/include/c++/13/bits/uniform_int_dist.h \
-  /usr/include/c++/13/bits/unique_ptr.h \
-  /usr/include/c++/13/bits/unordered_map.h \
-  /usr/include/c++/13/bits/unordered_set.h \
-  /usr/include/c++/13/bits/uses_allocator.h \
-  /usr/include/c++/13/bits/uses_allocator_args.h \
-  /usr/include/c++/13/bits/utility.h \
-  /usr/include/c++/13/bits/vector.tcc \
-  /usr/include/c++/13/cassert \
-  /usr/include/c++/13/cctype \
-  /usr/include/c++/13/cerrno \
-  /usr/include/c++/13/chrono \
-  /usr/include/c++/13/climits \
-  /usr/include/c++/13/clocale \
-  /usr/include/c++/13/cmath \
-  /usr/include/c++/13/compare \
-  /usr/include/c++/13/cstddef \
-  /usr/include/c++/13/cstdint \
-  /usr/include/c++/13/cstdio \
-  /usr/include/c++/13/cstdlib \
-  /usr/include/c++/13/cstring \
-  /usr/include/c++/13/ctime \
-  /usr/include/c++/13/cwchar \
-  /usr/include/c++/13/debug/assertions.h \
-  /usr/include/c++/13/debug/debug.h \
-  /usr/include/c++/13/exception \
-  /usr/include/c++/13/ext/aligned_buffer.h \
-  /usr/include/c++/13/ext/alloc_traits.h \
-  /usr/include/c++/13/ext/atomicity.h \
-  /usr/include/c++/13/ext/concurrence.h \
-  /usr/include/c++/13/ext/numeric_traits.h \
-  /usr/include/c++/13/ext/string_conversions.h \
-  /usr/include/c++/13/ext/type_traits.h \
-  /usr/include/c++/13/functional \
-  /usr/include/c++/13/initializer_list \
-  /usr/include/c++/13/iosfwd \
-  /usr/include/c++/13/iterator \
-  /usr/include/c++/13/limits \
-  /usr/include/c++/13/list \
-  /usr/include/c++/13/map \
-  /usr/include/c++/13/memory \
-  /usr/include/c++/13/new \
-  /usr/include/c++/13/numeric \
-  /usr/include/c++/13/optional \
-  /usr/include/c++/13/pstl/execution_defs.h \
-  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/13/pstl/glue_memory_defs.h \
-  /usr/include/c++/13/pstl/glue_numeric_defs.h \
-  /usr/include/c++/13/pstl/pstl_config.h \
-  /usr/include/c++/13/ratio \
-  /usr/include/c++/13/set \
-  /usr/include/c++/13/stdexcept \
-  /usr/include/c++/13/stdlib.h \
-  /usr/include/c++/13/streambuf \
-  /usr/include/c++/13/string \
-  /usr/include/c++/13/string_view \
-  /usr/include/c++/13/system_error \
-  /usr/include/c++/13/tr1/bessel_function.tcc \
-  /usr/include/c++/13/tr1/beta_function.tcc \
-  /usr/include/c++/13/tr1/ell_integral.tcc \
-  /usr/include/c++/13/tr1/exp_integral.tcc \
-  /usr/include/c++/13/tr1/gamma.tcc \
-  /usr/include/c++/13/tr1/hypergeometric.tcc \
-  /usr/include/c++/13/tr1/legendre_function.tcc \
-  /usr/include/c++/13/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/13/tr1/poly_hermite.tcc \
-  /usr/include/c++/13/tr1/poly_laguerre.tcc \
-  /usr/include/c++/13/tr1/riemann_zeta.tcc \
-  /usr/include/c++/13/tr1/special_function_util.h \
-  /usr/include/c++/13/tuple \
-  /usr/include/c++/13/type_traits \
-  /usr/include/c++/13/typeinfo \
-  /usr/include/c++/13/unordered_map \
-  /usr/include/c++/13/unordered_set \
-  /usr/include/c++/13/utility \
-  /usr/include/c++/13/variant \
-  /usr/include/c++/13/vector \
-  /usr/include/c++/13/version \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/limits.h \
-  /usr/include/linux/errno.h \
-  /usr/include/linux/limits.h \
-  /usr/include/locale.h \
-  /usr/include/math.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/string.h \
-  /usr/include/strings.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/include/x86_64-linux-gnu/asm/errno.h \
-  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
-  /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
-  /usr/include/x86_64-linux-gnu/bits/endian.h \
-  /usr/include/x86_64-linux-gnu/bits/endianness.h \
-  /usr/include/x86_64-linux-gnu/bits/errno.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn.h \
-  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
-  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
-  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/locale.h \
-  /usr/include/x86_64-linux-gnu/bits/long-double.h \
-  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
-  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/x86_64-linux-gnu/bits/sched.h \
-  /usr/include/x86_64-linux-gnu/bits/select.h \
-  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/x86_64-linux-gnu/bits/time.h \
-  /usr/include/x86_64-linux-gnu/bits/time64.h \
-  /usr/include/x86_64-linux-gnu/bits/timesize.h \
-  /usr/include/x86_64-linux-gnu/bits/timex.h \
-  /usr/include/x86_64-linux-gnu/bits/types.h \
-  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
-  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
-  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
-  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar.h \
-  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
-  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/atomic_word.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++allocator.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++locale.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/gthr-default.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/gthr.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
-  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/include/x86_64-linux-gnu/sys/select.h \
-  /usr/include/x86_64-linux-gnu/sys/single_threaded.h \
-  /usr/include/x86_64-linux-gnu/sys/types.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
-
-CMakeFiles/chess_ui.dir/src/chess_module.cpp.o: /home/jimmy/logos-chess/src/chess_module.cpp \
-  /home/jimmy/logos-chess/src/chess_module.h \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/c++/13/algorithm \
-  /usr/include/c++/13/backward/binders.h \
-  /usr/include/c++/13/bit \
-  /usr/include/c++/13/bits/algorithmfwd.h \
-  /usr/include/c++/13/bits/alloc_traits.h \
-  /usr/include/c++/13/bits/allocator.h \
-  /usr/include/c++/13/bits/basic_ios.h \
-  /usr/include/c++/13/bits/basic_ios.tcc \
-  /usr/include/c++/13/bits/basic_string.h \
-  /usr/include/c++/13/bits/basic_string.tcc \
-  /usr/include/c++/13/bits/char_traits.h \
-  /usr/include/c++/13/bits/charconv.h \
-  /usr/include/c++/13/bits/concept_check.h \
-  /usr/include/c++/13/bits/cpp_type_traits.h \
-  /usr/include/c++/13/bits/cxxabi_forced.h \
-  /usr/include/c++/13/bits/cxxabi_init_exception.h \
-  /usr/include/c++/13/bits/exception.h \
-  /usr/include/c++/13/bits/exception_defines.h \
-  /usr/include/c++/13/bits/exception_ptr.h \
-  /usr/include/c++/13/bits/functexcept.h \
-  /usr/include/c++/13/bits/functional_hash.h \
-  /usr/include/c++/13/bits/hash_bytes.h \
-  /usr/include/c++/13/bits/invoke.h \
-  /usr/include/c++/13/bits/ios_base.h \
-  /usr/include/c++/13/bits/istream.tcc \
-  /usr/include/c++/13/bits/locale_classes.h \
-  /usr/include/c++/13/bits/locale_classes.tcc \
-  /usr/include/c++/13/bits/locale_facets.h \
-  /usr/include/c++/13/bits/locale_facets.tcc \
-  /usr/include/c++/13/bits/localefwd.h \
-  /usr/include/c++/13/bits/memory_resource.h \
-  /usr/include/c++/13/bits/memoryfwd.h \
-  /usr/include/c++/13/bits/move.h \
-  /usr/include/c++/13/bits/nested_exception.h \
-  /usr/include/c++/13/bits/new_allocator.h \
-  /usr/include/c++/13/bits/ostream.tcc \
-  /usr/include/c++/13/bits/ostream_insert.h \
-  /usr/include/c++/13/bits/postypes.h \
-  /usr/include/c++/13/bits/predefined_ops.h \
-  /usr/include/c++/13/bits/ptr_traits.h \
-  /usr/include/c++/13/bits/range_access.h \
-  /usr/include/c++/13/bits/refwrap.h \
-  /usr/include/c++/13/bits/requires_hosted.h \
-  /usr/include/c++/13/bits/sstream.tcc \
-  /usr/include/c++/13/bits/std_abs.h \
-  /usr/include/c++/13/bits/stl_algo.h \
-  /usr/include/c++/13/bits/stl_algobase.h \
-  /usr/include/c++/13/bits/stl_bvector.h \
-  /usr/include/c++/13/bits/stl_construct.h \
-  /usr/include/c++/13/bits/stl_function.h \
-  /usr/include/c++/13/bits/stl_heap.h \
-  /usr/include/c++/13/bits/stl_iterator.h \
-  /usr/include/c++/13/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/13/bits/stl_iterator_base_types.h \
-  /usr/include/c++/13/bits/stl_pair.h \
-  /usr/include/c++/13/bits/stl_tempbuf.h \
-  /usr/include/c++/13/bits/stl_uninitialized.h \
-  /usr/include/c++/13/bits/stl_vector.h \
-  /usr/include/c++/13/bits/streambuf.tcc \
-  /usr/include/c++/13/bits/streambuf_iterator.h \
-  /usr/include/c++/13/bits/string_view.tcc \
-  /usr/include/c++/13/bits/stringfwd.h \
-  /usr/include/c++/13/bits/uniform_int_dist.h \
-  /usr/include/c++/13/bits/uses_allocator.h \
-  /usr/include/c++/13/bits/uses_allocator_args.h \
-  /usr/include/c++/13/bits/utility.h \
-  /usr/include/c++/13/bits/vector.tcc \
-  /usr/include/c++/13/cctype \
-  /usr/include/c++/13/cerrno \
-  /usr/include/c++/13/clocale \
-  /usr/include/c++/13/cstddef \
-  /usr/include/c++/13/cstdio \
-  /usr/include/c++/13/cstdlib \
-  /usr/include/c++/13/cwchar \
-  /usr/include/c++/13/cwctype \
-  /usr/include/c++/13/debug/assertions.h \
-  /usr/include/c++/13/debug/debug.h \
-  /usr/include/c++/13/exception \
-  /usr/include/c++/13/ext/alloc_traits.h \
-  /usr/include/c++/13/ext/atomicity.h \
-  /usr/include/c++/13/ext/numeric_traits.h \
-  /usr/include/c++/13/ext/string_conversions.h \
-  /usr/include/c++/13/ext/type_traits.h \
-  /usr/include/c++/13/initializer_list \
-  /usr/include/c++/13/ios \
-  /usr/include/c++/13/iosfwd \
-  /usr/include/c++/13/istream \
-  /usr/include/c++/13/new \
-  /usr/include/c++/13/ostream \
-  /usr/include/c++/13/pstl/execution_defs.h \
-  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/13/pstl/pstl_config.h \
-  /usr/include/c++/13/sstream \
-  /usr/include/c++/13/stdexcept \
-  /usr/include/c++/13/streambuf \
-  /usr/include/c++/13/string \
-  /usr/include/c++/13/string_view \
-  /usr/include/c++/13/system_error \
-  /usr/include/c++/13/tuple \
-  /usr/include/c++/13/type_traits \
-  /usr/include/c++/13/typeinfo \
-  /usr/include/c++/13/vector \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/linux/errno.h \
-  /usr/include/locale.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/include/wctype.h \
-  /usr/include/x86_64-linux-gnu/asm/errno.h \
-  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
-  /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
-  /usr/include/x86_64-linux-gnu/bits/endian.h \
-  /usr/include/x86_64-linux-gnu/bits/endianness.h \
-  /usr/include/x86_64-linux-gnu/bits/errno.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn.h \
-  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/x86_64-linux-gnu/bits/locale.h \
-  /usr/include/x86_64-linux-gnu/bits/long-double.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/x86_64-linux-gnu/bits/sched.h \
-  /usr/include/x86_64-linux-gnu/bits/select.h \
-  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/x86_64-linux-gnu/bits/time.h \
-  /usr/include/x86_64-linux-gnu/bits/time64.h \
-  /usr/include/x86_64-linux-gnu/bits/timesize.h \
-  /usr/include/x86_64-linux-gnu/bits/timex.h \
-  /usr/include/x86_64-linux-gnu/bits/types.h \
-  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
-  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
-  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
-  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar.h \
-  /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h \
-  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/atomic_word.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++allocator.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++locale.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_base.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_inline.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/gthr-default.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/gthr.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
-  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/include/x86_64-linux-gnu/sys/select.h \
-  /usr/include/x86_64-linux-gnu/sys/single_threaded.h \
-  /usr/include/x86_64-linux-gnu/sys/types.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h
-
-CMakeFiles/chess_ui.dir/src/chess_ui_component.cpp.o: /home/jimmy/logos-chess/src/chess_ui_component.cpp \
-  /home/jimmy/logos-chess/interfaces/IComponent.h \
-  /home/jimmy/logos-chess/src/chess_ui_component.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/QQmlContext \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qjsnumbercoercion.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qjsprimitivevalue.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qjsvalue.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqml.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlcontext.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmldebug.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlerror.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlinfo.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmllist.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlparserstatus.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlprivate.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlpropertyvaluesource.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlregistration.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qtqml-config.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qtqmlexports.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qtqmlglobal.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQmlIntegration/qqmlintegration.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qquickwindow.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qsggeometry.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qsgnode.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qsgrendererinterface.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qtquick-config.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qtquickexports.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qtquickglobal.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/QQuickWidget \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/qquickwidget.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/qtquickwidgetsexports.h \
-  /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/qtquickwidgetsglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QEvent \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QList \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QMargins \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QObject \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QRect \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QRectF \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QSize \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QSizeF \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QtPlugin \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q17memory.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20algorithm.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20functional.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20iterator.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20memory.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20type_traits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q20utility.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q23utility.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qabstracteventdispatcher.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qalgorithms.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qanystringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydata.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydataops.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydatapointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qassert.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qatomic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qatomic_cxx11.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbasicatomic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbasictimer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbindingstorage.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearray.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearrayalgorithms.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearraylist.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbytearrayview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcalendar.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcborcommon.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcborvalue.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qchar.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcompare.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcompare_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcomparehelpers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcompilerdetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qconfig.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qconstructormacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontainerfwd.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontainerinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontainertools_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcontiguouscache.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcoreapplication.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcoreapplication_platform.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcoreevent.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdarwinhelpers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdatastream.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdatetime.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdeadlinetimer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdebug.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qelapsedtimer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qendian.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qeventloop.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qexceptionhandling.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qflags.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qfloat16.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qforeach.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qfunctionaltools_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qfunctionpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qgenericatomic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qglobalstatic.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qhash.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qhashfunctions.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiodevice.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiodevicebase.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiterable.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiterator.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsondocument.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsonobject.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsonparseerror.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qjsonvalue.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlatin1stringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qline.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlist.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlocale.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlogging.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmalloc.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmargins.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmath.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmetacontainer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmetaobject.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmetatype.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qminmax.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qnamespace.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qnativeinterface.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qnumeric.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobject.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobject_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobjectdefs.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qobjectdefs_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qoverload.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpair.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qplugin.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpoint.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qprocessordetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qrect.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qrefcount.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qregularexpression.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qscopedpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qscopeguard.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qset.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qshareddata.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qshareddata_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsharedpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsharedpointer_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsize.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qspan.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstdlibdetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstring.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringalgorithms.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringbuilder.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringconverter.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringconverter_base.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringfwd.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringlist.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringliteral.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringmatcher.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringtokenizer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qstringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qswap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsysinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qsystemdetection.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtaggedpointer.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtclasshelpermacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtconfiginclude.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtconfigmacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtcore-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtcoreexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtcoreglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtdeprecationdefinitions.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtdeprecationmarkers.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtenvironmentvariables.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtextstream.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtformat_impl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtmetamacros.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtnoop.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtpreprocessorsupport.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtresource.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qttranslation.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qttypetraits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtversion.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtversionchecks.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtypeinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtyperevision.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtypes.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qurl.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qutf8stringview.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/quuid.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qvariant.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qvarlengtharray.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qversionnumber.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qversiontagging.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qxptype_traits.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qyieldcpu.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/QMatrix4x4 \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/QTransform \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qaction.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qbitmap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qbrush.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qcolor.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qcursor.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qevent.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qeventpoint.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfont.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfontinfo.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfontmetrics.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfontvariableaxis.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qgenericmatrix.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qguiapplication.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qguiapplication_platform.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qicon.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qimage.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qinputdevice.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qinputmethod.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qkeysequence.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qmatrix4x4.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpaintdevice.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpalette.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpixelformat.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpixmap.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpointingdevice.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpolygon.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qquaternion.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qregion.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qrgb.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qrgba64.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qscreen.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qscreen_platform.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qsurface.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qsurfaceformat.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtgui-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtguiexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtguiglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qtransform.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvector2d.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvector3d.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvector4d.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvectornd.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qwindow.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qwindowdefs.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtNetwork/qtnetwork-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtNetwork/qtnetworkexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtNetwork/qtnetworkglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/QVBoxLayout \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/QWidget \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qboxlayout.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qgridlayout.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qlayout.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qlayoutitem.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qsizepolicy.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qtwidgets-config.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qtwidgetsexports.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qtwidgetsglobal.h \
-  /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qwidget.h \
-  /usr/include/alloca.h \
-  /usr/include/asm-generic/errno-base.h \
-  /usr/include/asm-generic/errno.h \
-  /usr/include/assert.h \
-  /usr/include/c++/13/algorithm \
-  /usr/include/c++/13/array \
-  /usr/include/c++/13/atomic \
-  /usr/include/c++/13/backward/auto_ptr.h \
-  /usr/include/c++/13/backward/binders.h \
-  /usr/include/c++/13/bit \
-  /usr/include/c++/13/bits/algorithmfwd.h \
-  /usr/include/c++/13/bits/align.h \
-  /usr/include/c++/13/bits/alloc_traits.h \
-  /usr/include/c++/13/bits/allocated_ptr.h \
-  /usr/include/c++/13/bits/allocator.h \
-  /usr/include/c++/13/bits/atomic_base.h \
-  /usr/include/c++/13/bits/atomic_lockfree_defines.h \
-  /usr/include/c++/13/bits/basic_string.h \
-  /usr/include/c++/13/bits/basic_string.tcc \
-  /usr/include/c++/13/bits/char_traits.h \
-  /usr/include/c++/13/bits/charconv.h \
-  /usr/include/c++/13/bits/chrono.h \
-  /usr/include/c++/13/bits/concept_check.h \
-  /usr/include/c++/13/bits/cpp_type_traits.h \
-  /usr/include/c++/13/bits/cxxabi_forced.h \
-  /usr/include/c++/13/bits/cxxabi_init_exception.h \
-  /usr/include/c++/13/bits/enable_special_members.h \
-  /usr/include/c++/13/bits/erase_if.h \
-  /usr/include/c++/13/bits/exception.h \
-  /usr/include/c++/13/bits/exception_defines.h \
-  /usr/include/c++/13/bits/exception_ptr.h \
-  /usr/include/c++/13/bits/functexcept.h \
-  /usr/include/c++/13/bits/functional_hash.h \
-  /usr/include/c++/13/bits/hash_bytes.h \
-  /usr/include/c++/13/bits/hashtable.h \
-  /usr/include/c++/13/bits/hashtable_policy.h \
-  /usr/include/c++/13/bits/invoke.h \
-  /usr/include/c++/13/bits/ios_base.h \
-  /usr/include/c++/13/bits/list.tcc \
-  /usr/include/c++/13/bits/locale_classes.h \
-  /usr/include/c++/13/bits/locale_classes.tcc \
-  /usr/include/c++/13/bits/localefwd.h \
-  /usr/include/c++/13/bits/memory_resource.h \
-  /usr/include/c++/13/bits/memoryfwd.h \
-  /usr/include/c++/13/bits/move.h \
-  /usr/include/c++/13/bits/nested_exception.h \
-  /usr/include/c++/13/bits/new_allocator.h \
-  /usr/include/c++/13/bits/node_handle.h \
-  /usr/include/c++/13/bits/ostream_insert.h \
-  /usr/include/c++/13/bits/parse_numbers.h \
-  /usr/include/c++/13/bits/postypes.h \
-  /usr/include/c++/13/bits/predefined_ops.h \
-  /usr/include/c++/13/bits/ptr_traits.h \
-  /usr/include/c++/13/bits/range_access.h \
-  /usr/include/c++/13/bits/refwrap.h \
-  /usr/include/c++/13/bits/requires_hosted.h \
-  /usr/include/c++/13/bits/shared_ptr.h \
-  /usr/include/c++/13/bits/shared_ptr_atomic.h \
-  /usr/include/c++/13/bits/shared_ptr_base.h \
-  /usr/include/c++/13/bits/specfun.h \
-  /usr/include/c++/13/bits/std_abs.h \
-  /usr/include/c++/13/bits/std_function.h \
-  /usr/include/c++/13/bits/stl_algo.h \
-  /usr/include/c++/13/bits/stl_algobase.h \
-  /usr/include/c++/13/bits/stl_bvector.h \
-  /usr/include/c++/13/bits/stl_construct.h \
-  /usr/include/c++/13/bits/stl_function.h \
-  /usr/include/c++/13/bits/stl_heap.h \
-  /usr/include/c++/13/bits/stl_iterator.h \
-  /usr/include/c++/13/bits/stl_iterator_base_funcs.h \
-  /usr/include/c++/13/bits/stl_iterator_base_types.h \
-  /usr/include/c++/13/bits/stl_list.h \
-  /usr/include/c++/13/bits/stl_map.h \
-  /usr/include/c++/13/bits/stl_multimap.h \
-  /usr/include/c++/13/bits/stl_multiset.h \
-  /usr/include/c++/13/bits/stl_numeric.h \
-  /usr/include/c++/13/bits/stl_pair.h \
-  /usr/include/c++/13/bits/stl_raw_storage_iter.h \
-  /usr/include/c++/13/bits/stl_relops.h \
-  /usr/include/c++/13/bits/stl_set.h \
-  /usr/include/c++/13/bits/stl_tempbuf.h \
-  /usr/include/c++/13/bits/stl_tree.h \
-  /usr/include/c++/13/bits/stl_uninitialized.h \
-  /usr/include/c++/13/bits/stl_vector.h \
-  /usr/include/c++/13/bits/stream_iterator.h \
-  /usr/include/c++/13/bits/streambuf.tcc \
-  /usr/include/c++/13/bits/streambuf_iterator.h \
-  /usr/include/c++/13/bits/string_view.tcc \
-  /usr/include/c++/13/bits/stringfwd.h \
-  /usr/include/c++/13/bits/uniform_int_dist.h \
-  /usr/include/c++/13/bits/unique_ptr.h \
-  /usr/include/c++/13/bits/unordered_map.h \
-  /usr/include/c++/13/bits/unordered_set.h \
-  /usr/include/c++/13/bits/uses_allocator.h \
-  /usr/include/c++/13/bits/uses_allocator_args.h \
-  /usr/include/c++/13/bits/utility.h \
-  /usr/include/c++/13/bits/vector.tcc \
-  /usr/include/c++/13/cassert \
-  /usr/include/c++/13/cctype \
-  /usr/include/c++/13/cerrno \
-  /usr/include/c++/13/chrono \
-  /usr/include/c++/13/climits \
-  /usr/include/c++/13/clocale \
-  /usr/include/c++/13/cmath \
-  /usr/include/c++/13/compare \
-  /usr/include/c++/13/cstddef \
-  /usr/include/c++/13/cstdint \
-  /usr/include/c++/13/cstdio \
-  /usr/include/c++/13/cstdlib \
-  /usr/include/c++/13/cstring \
-  /usr/include/c++/13/ctime \
-  /usr/include/c++/13/cwchar \
-  /usr/include/c++/13/debug/assertions.h \
-  /usr/include/c++/13/debug/debug.h \
-  /usr/include/c++/13/exception \
-  /usr/include/c++/13/ext/aligned_buffer.h \
-  /usr/include/c++/13/ext/alloc_traits.h \
-  /usr/include/c++/13/ext/atomicity.h \
-  /usr/include/c++/13/ext/concurrence.h \
-  /usr/include/c++/13/ext/numeric_traits.h \
-  /usr/include/c++/13/ext/string_conversions.h \
-  /usr/include/c++/13/ext/type_traits.h \
-  /usr/include/c++/13/functional \
-  /usr/include/c++/13/initializer_list \
-  /usr/include/c++/13/iosfwd \
-  /usr/include/c++/13/iterator \
-  /usr/include/c++/13/limits \
-  /usr/include/c++/13/list \
-  /usr/include/c++/13/map \
-  /usr/include/c++/13/memory \
-  /usr/include/c++/13/new \
-  /usr/include/c++/13/numeric \
-  /usr/include/c++/13/optional \
-  /usr/include/c++/13/pstl/execution_defs.h \
-  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
-  /usr/include/c++/13/pstl/glue_memory_defs.h \
-  /usr/include/c++/13/pstl/glue_numeric_defs.h \
-  /usr/include/c++/13/pstl/pstl_config.h \
-  /usr/include/c++/13/ratio \
-  /usr/include/c++/13/set \
-  /usr/include/c++/13/stdexcept \
-  /usr/include/c++/13/stdlib.h \
-  /usr/include/c++/13/streambuf \
-  /usr/include/c++/13/string \
-  /usr/include/c++/13/string_view \
-  /usr/include/c++/13/system_error \
-  /usr/include/c++/13/tr1/bessel_function.tcc \
-  /usr/include/c++/13/tr1/beta_function.tcc \
-  /usr/include/c++/13/tr1/ell_integral.tcc \
-  /usr/include/c++/13/tr1/exp_integral.tcc \
-  /usr/include/c++/13/tr1/gamma.tcc \
-  /usr/include/c++/13/tr1/hypergeometric.tcc \
-  /usr/include/c++/13/tr1/legendre_function.tcc \
-  /usr/include/c++/13/tr1/modified_bessel_func.tcc \
-  /usr/include/c++/13/tr1/poly_hermite.tcc \
-  /usr/include/c++/13/tr1/poly_laguerre.tcc \
-  /usr/include/c++/13/tr1/riemann_zeta.tcc \
-  /usr/include/c++/13/tr1/special_function_util.h \
-  /usr/include/c++/13/tuple \
-  /usr/include/c++/13/type_traits \
-  /usr/include/c++/13/typeinfo \
-  /usr/include/c++/13/unordered_map \
-  /usr/include/c++/13/unordered_set \
-  /usr/include/c++/13/utility \
-  /usr/include/c++/13/variant \
-  /usr/include/c++/13/vector \
-  /usr/include/c++/13/version \
-  /usr/include/ctype.h \
-  /usr/include/endian.h \
-  /usr/include/errno.h \
-  /usr/include/features-time64.h \
-  /usr/include/features.h \
-  /usr/include/limits.h \
-  /usr/include/linux/errno.h \
-  /usr/include/linux/limits.h \
-  /usr/include/locale.h \
-  /usr/include/math.h \
-  /usr/include/pthread.h \
-  /usr/include/sched.h \
-  /usr/include/stdc-predef.h \
-  /usr/include/stdint.h \
-  /usr/include/stdio.h \
-  /usr/include/stdlib.h \
-  /usr/include/string.h \
-  /usr/include/strings.h \
-  /usr/include/time.h \
-  /usr/include/wchar.h \
-  /usr/include/x86_64-linux-gnu/asm/errno.h \
-  /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
-  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
-  /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
-  /usr/include/x86_64-linux-gnu/bits/endian.h \
-  /usr/include/x86_64-linux-gnu/bits/endianness.h \
-  /usr/include/x86_64-linux-gnu/bits/errno.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
-  /usr/include/x86_64-linux-gnu/bits/floatn.h \
-  /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
-  /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
-  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
-  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
-  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
-  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/locale.h \
-  /usr/include/x86_64-linux-gnu/bits/long-double.h \
-  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
-  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
-  /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
-  /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
-  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
-  /usr/include/x86_64-linux-gnu/bits/sched.h \
-  /usr/include/x86_64-linux-gnu/bits/select.h \
-  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
-  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
-  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
-  /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
-  /usr/include/x86_64-linux-gnu/bits/time.h \
-  /usr/include/x86_64-linux-gnu/bits/time64.h \
-  /usr/include/x86_64-linux-gnu/bits/timesize.h \
-  /usr/include/x86_64-linux-gnu/bits/timex.h \
-  /usr/include/x86_64-linux-gnu/bits/types.h \
-  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
-  /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
-  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
-  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
-  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
-  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
-  /usr/include/x86_64-linux-gnu/bits/wchar.h \
-  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
-  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/atomic_word.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++allocator.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/c++locale.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/gthr-default.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/gthr.h \
-  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
-  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
-  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
-  /usr/include/x86_64-linux-gnu/sys/select.h \
-  /usr/include/x86_64-linux-gnu/sys/single_threaded.h \
-  /usr/include/x86_64-linux-gnu/sys/types.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/float.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h \
-  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h
-
-
-/usr/lib/gcc/x86_64-linux-gnu/13/include/float.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qgridlayout.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtNetwork/qtnetwork-config.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qwindow.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvectornd.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qsurfaceformat.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qscreen.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qmatrix4x4.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qinputdevice.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qguiapplication_platform.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qgenericmatrix.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qversionnumber.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qnativeinterface.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qmetaobject.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qelapsedtimer.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qdeadlinetimer.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qabstracteventdispatcher.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QSizeF:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QRectF:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QMargins:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/qquickwidget.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qtquickglobal.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtNetwork/qtnetworkglobal.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qtquickexports.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qtquick-config.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qsggeometry.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQmlIntegration/qqmlintegration.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qtqmlexports.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qtqml-config.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlpropertyvaluesource.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlerror.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmldebug.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlcontext.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqml.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qjsprimitivevalue.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/QQmlContext:
-
-/usr/include/x86_64-linux-gnu/c++/13/bits/ctype_inline.h:
-
-/usr/include/x86_64-linux-gnu/c++/13/bits/ctype_base.h:
-
-/usr/include/c++/13/ostream:
-
-/usr/include/c++/13/cwctype:
-
-/usr/include/c++/13/bits/sstream.tcc:
-
-/usr/include/c++/13/bits/ostream.tcc:
-
-/usr/include/c++/13/bits/locale_facets.tcc:
-
-/usr/include/c++/13/bits/basic_ios.tcc:
-
-/usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
-
-/usr/include/x86_64-linux-gnu/bits/math-vector.h:
-
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/x86_64-linux-gnu/bits/fp-logb.h:
-
-/usr/include/math.h:
-
-/usr/include/c++/13/stdlib.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtmocconstants.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q23type_traits.h:
-
-chess_ui_autogen/mocs_compilation.cpp:
-
-chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /usr/share/cmake-3.28/Modules/Platform/Linux-Initialize.cmake:
 
@@ -2628,8 +1308,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /usr/share/cmake-3.28/Modules/CMakeParseImplicitLinkInfo.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcoreapplication.h:
-
 /usr/share/cmake-3.28/Modules/CMakeParseImplicitIncludeInfo.cmake:
 
 /usr/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake:
@@ -2637,8 +1315,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 /usr/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake:
 
 /usr/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QRect:
 
 /usr/share/cmake-3.28/Modules/CMakeFindBinUtils.cmake:
 
@@ -2668,8 +1344,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /usr/include/x86_64-linux-gnu/sys/single_threaded.h:
 
-/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
-
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
@@ -2691,8 +1365,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6/Qt6ConfigVersion.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlModels/Qt6QmlModelsDependencies.cmake:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qjsvalue.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlAssetDownloaderPrivate/Qt6QmlAssetDownloaderPrivateDependencies.cmake:
 
@@ -2860,8 +1532,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qline.h:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/qtquickwidgetsglobal.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qlatin1stringview.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiterator.h:
@@ -2940,8 +1610,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfig.cmake:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlparserstatus.h:
-
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginAdditionalTargetInfo.cmake:
 
 /usr/include/c++/13/backward/auto_ptr.h:
@@ -2956,15 +1624,11 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydata.h:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qlayoutitem.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qarraydataops.h:
 
 /usr/include/c++/13/bits/locale_classes.tcc:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qanystringview.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qboxlayout.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginAdditionalTargetInfo.cmake:
 
@@ -2979,10 +1643,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginTargets-release.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpointingdevice.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcoreapplication_platform.h:
 
 /usr/share/cmake-3.28/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake:
 
@@ -3134,8 +1794,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qeventloop.h:
-
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QuickWidgetsPrivate/Qt6QuickWidgetsPrivateConfigVersionImpl.cmake:
@@ -3192,8 +1850,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlAssetDownloader/Qt6QmlAssetDownloaderConfig.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtyperevision.h:
-
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlAssetDownloaderpluginTargets.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets.cmake:
@@ -3202,11 +1858,7 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2universalstylepluginAdditionalTargetInfo.cmake:
 
-/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qeventpoint.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlIntegrationPrivate/Qt6QmlIntegrationPrivateDependencies.cmake:
 
@@ -3221,8 +1873,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake:
 
 /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
-
-/usr/include/c++/13/bits/basic_ios.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6QmlNetworkpluginConfig.cmake:
 
@@ -3264,8 +1914,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquick2pluginAdditionalTargetInfo.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QList:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfig.cmake:
@@ -3300,11 +1948,7 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qpolygon.h:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlprivate.h:
-
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginTargets-release.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qevent.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6ConcurrentPrivate/Qt6ConcurrentPrivateConfigVersion.cmake:
 
@@ -3376,8 +2020,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlModels/Qt6QmlModelsConfigVersionImpl.cmake:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/qtquickwidgetsexports.h:
-
 /usr/include/c++/13/algorithm:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qatomic_cxx11.h:
@@ -3393,8 +2035,6 @@ chess_ui_autogen/CCBC4FUR7J/qrc_chess_ui.cpp:
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6workerscriptpluginAdditionalTargetInfo.cmake:
-
-chess_ui_autogen/UVLADIE3JM/moc_chess_ui_component.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlsettingspluginAdditionalTargetInfo.cmake:
 
@@ -3430,8 +2070,6 @@ chess_ui_autogen/UVLADIE3JM/moc_chess_ui_component.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginAdditionalTargetInfo.cmake:
 
-/usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h:
-
 /usr/share/cmake-3.28/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6OpenGLPrivate/Qt6OpenGLPrivateConfig.cmake:
@@ -3445,8 +2083,6 @@ chess_ui_autogen/UVLADIE3JM/moc_chess_ui_component.cpp:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginConfig.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/q17memory.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/QTransform:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickControlsTestUtilsPrivatepluginAdditionalTargetInfo.cmake:
 
@@ -3483,8 +2119,6 @@ chess_ui_autogen/UVLADIE3JM/moc_chess_ui_component.cpp:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlwavefrontmeshpluginTargets-release.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QuickWidgets/Qt6QuickWidgetsConfigVersion.cmake:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qsgnode.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QXcbIntegrationPluginTargets-release.cmake:
 
@@ -3524,8 +2158,6 @@ chess_ui_autogen/UVLADIE3JM/moc_chess_ui_component.cpp:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlIntegration/Qt6QmlIntegrationTargets.cmake:
 
-/usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtnoop.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessAliasTargets.cmake:
@@ -3546,8 +2178,6 @@ CMakeFiles/3.28.3/CMakeCXXCompiler.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2implpluginAdditionalTargetInfo.cmake:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qtqmlglobal.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qrefcount.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QEglFSX11IntegrationPluginConfig.cmake:
@@ -3559,8 +2189,6 @@ CMakeFiles/3.28.3/CMakeCXXCompiler.cmake:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6LabsPlatformpluginTargets-release.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogs2quickimplpluginConfig.cmake:
-
-/usr/include/c++/13/bits/istream.tcc:
 
 /usr/bin/cmake:
 
@@ -3580,10 +2208,6 @@ CMakeFiles/3.28.3/CMakeCXXCompiler.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlIntegrationPrivate/Qt6QmlIntegrationPrivateTargets.cmake:
 
-/usr/include/c++/13/sstream:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtmochelpers.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtaggedpointer.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginTargets-release.cmake:
@@ -3591,8 +2215,6 @@ CMakeFiles/3.28.3/CMakeCXXCompiler.cmake:
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qvarlengtharray.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/Qt6QQuickProfilerAdapterFactoryPluginTargets.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qcoreevent.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginAdditionalTargetInfo.cmake:
 
@@ -3720,8 +2342,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6particlespluginTargets.cmake:
 
-/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
-
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/Qt6QQmlPreviewServiceFactoryPluginConfig.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Quick/Qt6QuickConfigVersion.cmake:
@@ -3751,8 +2371,6 @@ chess_ui_autogen/moc_predefs.h:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstyleimplpluginTargets.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qguiapplication.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6DBus/Qt6DBusMacros.cmake:
 
@@ -3786,8 +2404,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginAdditionalTargetInfo.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QSize:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qmlxmllistmodelpluginTargets.cmake:
@@ -3801,8 +2417,6 @@ chess_ui_autogen/moc_predefs.h:
 /usr/include/c++/13/bits/string_view.tcc:
 
 /home/jimmy/logos-chess/src/chess_module.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmllist.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstyleimplpluginTargets.cmake:
 
@@ -3858,8 +2472,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickdialogspluginTargets.cmake:
 
-/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
-
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2materialstylepluginConfig.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginConfig.cmake:
@@ -3910,13 +2522,9 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6quicktoolingConfig.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/QEvent:
-
 /usr/include/c++/13/utility:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginTargets-release.cmake:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qquickwindow.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
 
@@ -4004,8 +2612,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/Qt6QQmlInspectorServiceFactoryPluginConfig.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvector3d.h:
-
 /usr/share/cmake-3.28/Modules/Compiler/ARMCC-DetermineCompiler.cmake:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-least.h:
@@ -4055,8 +2661,6 @@ chess_ui_autogen/moc_predefs.h:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6QuickTestpluginTargets-release.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qsurface.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/include/stdarg.h:
 
@@ -4140,8 +2744,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /usr/include/c++/13/string_view:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qquaternion.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
 
 /usr/include/c++/13/bits/align.h:
@@ -4181,8 +2783,6 @@ chess_ui_autogen/moc_predefs.h:
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Concurrent/Qt6ConcurrentAdditionalTargetInfo.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qiodevice.h:
 
 /usr/share/cmake-3.28/Modules/Compiler/GNU-FindBinUtils.cmake:
 
@@ -4268,8 +2868,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6DBusPrivate/Qt6DBusPrivateTargets.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/QMatrix4x4:
-
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6QmlWorkerScriptPrivate/Qt6QmlWorkerScriptPrivateConfig.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6DBusPrivate/Qt6DBusPrivateVersionlessAliasTargets.cmake:
@@ -4314,11 +2912,7 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/Qt6ExamplesAssetDownloaderPrivateConfigVersionImpl.cmake:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuick/qsgrendererinterface.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/Qt6ExamplesAssetDownloaderPrivateDependencies.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qscreen_platform.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
 
@@ -4359,8 +2953,6 @@ chess_ui_autogen/moc_predefs.h:
 /usr/include/c++/13/bits/stl_tree.h:
 
 /usr/include/c++/13/optional:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qbasictimer.h:
 
 /usr/share/cmake-3.28/Modules/CMakeSystem.cmake.in:
 
@@ -4442,10 +3034,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qinputmethod.h:
-
-/usr/include/wctype.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6quickwindowTargets-release.cmake:
@@ -4475,8 +3063,6 @@ chess_ui_autogen/moc_predefs.h:
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QMinimalEglIntegrationPluginTargets.cmake:
 
 /usr/include/c++/13/bits/charconv.h:
-
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQuickWidgets/QQuickWidget:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
 
@@ -4534,8 +3120,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateConfig.cmake:
 
-/usr/include/c++/13/ios:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6NetworkPrivate/Qt6NetworkPrivateConfig.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
@@ -4585,8 +3169,6 @@ chess_ui_autogen/moc_predefs.h:
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginConfig.cmake:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginTargets-release.cmake:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvector2d.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QXcbEglIntegrationPluginConfig.cmake:
 
@@ -4664,8 +3246,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersion.cmake:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qjsnumbercoercion.h:
-
 /usr/include/c++/13/bits/std_abs.h:
 
 /usr/include/linux/errno.h:
@@ -4692,8 +3272,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/cmake/Qt6RemoteObjects/Qt6RemoteObjectsDependencies.cmake:
 
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/QVBoxLayout:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qpair.h:
 
 /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/cmake/Qt6RemoteObjects/Qt6RemoteObjectsMacros.cmake:
@@ -4707,8 +3285,6 @@ chess_ui_autogen/moc_predefs.h:
 /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/cmake/Qt6RemoteObjects/Qt6RemoteObjectsVersionlessAliasTargets.cmake:
 
 /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/cmake/Qt6RemoteObjectsPrivate/Qt6RemoteObjectsPrivateAdditionalTargetInfo.cmake:
-
-/usr/include/c++/13/bits/locale_facets.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qfont.h:
 
@@ -4756,8 +3332,6 @@ chess_ui_autogen/moc_predefs.h:
 
 /usr/include/c++/13/bits/allocated_ptr.h:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlregistration.h:
-
 /usr/include/c++/13/bits/atomic_lockfree_defines.h:
 
 /usr/include/c++/13/bits/stl_heap.h:
@@ -4775,8 +3349,6 @@ chess_ui_autogen/moc_predefs.h:
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
 /usr/include/c++/13/bits/char_traits.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtNetwork/qtnetworkexports.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6labsanimationpluginAdditionalTargetInfo.cmake:
 
@@ -4836,23 +3408,17 @@ CMakeFiles/3.28.3/CMakeSystem.cmake:
 
 /usr/include/c++/13/bits/node_handle.h:
 
-/usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6ExamplesAssetDownloaderPrivate/Qt6ExamplesAssetDownloaderPrivateTargets.cmake:
 
 /usr/include/c++/13/bits/stl_bvector.h:
 
 /usr/include/c++/13/bits/parse_numbers.h:
 
-/nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/include/QtQml/qqmlinfo.h:
-
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtCore/qtpreprocessorsupport.h:
 
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquicktemplates2pluginAdditionalTargetInfo.cmake:
 
 /usr/include/c++/13/bits/ptr_traits.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtGui/qvector4d.h:
 
 /usr/include/c++/13/bits/range_access.h:
 
@@ -4937,8 +3503,6 @@ CMakeFiles/3.28.3/CMakeSystem.cmake:
 /usr/include/c++/13/clocale:
 
 /usr/include/c++/13/stdexcept:
-
-/usr/include/c++/13/istream:
 
 /usr/include/c++/13/cmath:
 
@@ -5071,8 +3635,6 @@ CMakeFiles/3.28.3/CMakeSystem.cmake:
 /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/cmake/Qt6Qml/QmlPlugins/Qt6qtquickcontrols2fusionstylepluginTargets.cmake:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
-
-/nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/include/QtWidgets/qlayout.h:
 
 /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/cmake/Qt6Gui/Qt6QEglFSEmulatorIntegrationPluginConfig.cmake:
 

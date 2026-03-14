@@ -1,0 +1,6 @@
+/home/jimmy/logos-chess/build-module/CMakeFiles/chess_module_plugin.dir
+/home/jimmy/logos-chess/build-module/CMakeFiles/qt_internal_plugins.dir
+/home/jimmy/logos-chess/build-module/CMakeFiles/edit_cache.dir
+/home/jimmy/logos-chess/build-module/CMakeFiles/rebuild_cache.dir
+/home/jimmy/logos-chess/build-module/CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir
+/home/jimmy/logos-chess/build-module/CMakeFiles/chess_module_plugin_autogen.dir

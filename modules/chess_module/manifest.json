@@ -1,0 +1,15 @@
+{
+  "name": "chess_module",
+  "version": "0.1.0",
+  "type": "core",
+  "category": "games",
+  "author": "jimmy-claw",
+  "description": "Chess game logic module for Logos",
+  "dependencies": ["kv_module"],
+  "main": {
+    "linux-amd64": "chess_module_plugin.so",
+    "linux-aarch64": "chess_module_plugin.so",
+    "darwin-arm64": "chess_module_plugin.so"
+  },
+  "manifestVersion": "0.1.0"
+}

@@ -1,0 +1,123 @@
+[
+    {
+        "classes": [
+            {
+                "className": "ChessPlugin",
+                "lineNumber": 10,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "isConst": true,
+                        "name": "version",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "api",
+                                "type": "LogosAPI*"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "initLogos",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "newGame",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "isConst": true,
+                        "name": "getCurrentFEN",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "fromSquare",
+                                "type": "int"
+                            },
+                            {
+                                "name": "toSquare",
+                                "type": "int"
+                            },
+                            {
+                                "name": "promotion",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 4,
+                        "name": "makeMove",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "fromSquare",
+                                "type": "int"
+                            },
+                            {
+                                "name": "toSquare",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 5,
+                        "isCloned": true,
+                        "name": "makeMove",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "square",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 6,
+                        "isConst": true,
+                        "name": "getValidMoves",
+                        "returnType": "QVariantList"
+                    },
+                    {
+                        "access": "public",
+                        "index": 7,
+                        "isConst": true,
+                        "name": "getGameState",
+                        "returnType": "QVariantMap"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "fen",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 8,
+                        "name": "loadPosition",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "ChessPlugin",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "chess_plugin.h",
+        "outputRevision": 69
+    }
+]

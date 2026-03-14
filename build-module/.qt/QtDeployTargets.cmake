@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_chess_module_plugin_FILE /home/jimmy/logos-chess/build-module/chess_module_plugin.so)
+set(__QT_DEPLOY_TARGET_chess_module_plugin_TYPE MODULE_LIBRARY)

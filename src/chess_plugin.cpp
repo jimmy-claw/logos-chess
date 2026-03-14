@@ -1,5 +1,9 @@
-#include chess_plugin.h
+#include "chess_plugin.h"
 #include <QStandardPaths>
+#ifdef LOGOS_CORE_AVAILABLE
+#include <logos_api.h>
+#include <logos_api_client.h>
+#endif
 
 ChessPlugin::ChessPlugin(QObject *parent)
     : QObject(parent)
@@ -10,13 +14,13 @@ ChessPlugin::ChessPlugin(QObject *parent)
 
 void ChessPlugin::initLogos(LogosAPI* api) {
     m_logosAPI = api;
-    
+
 #ifdef LOGOS_CORE_AVAILABLE
     // Initialize with kv_module for persistence if available
-    auto* kvClient = api->getClient(kv_module);
+    auto* kvClient = api->getClient("kv_module");
     if (kvClient) {
-        kvClient->invokeRemoteMethod(kv_module, setDataDir,
-            QStandardPaths::writableLocation(QStandardPaths::AppDataLocation) + /kv-data);
+        kvClient->invokeRemoteMethod("kv_module", "setDataDir",
+            QStandardPaths::writableLocation(QStandardPaths::AppDataLocation) + "/kv-data");
     }
 #endif
 }
@@ -42,9 +46,9 @@ QVariantList ChessPlugin::getValidMoves(int square) const {
     auto moves = m_chessModule->getValidMoves(square);
     for (const auto& move : moves) {
         QVariantMap moveMap;
-        moveMap[from] = move.from;
-        moveMap[to] = move.to;
-        moveMap[promotion] = QString::fromStdString(move.promotion);
+        moveMap["from"] = move.from;
+        moveMap["to"] = move.to;
+        moveMap["promotion"] = QString::fromStdString(move.promotion);
         result.append(moveMap);
     }
     return result;
@@ -53,11 +57,11 @@ QVariantList ChessPlugin::getValidMoves(int square) const {
 QVariantMap ChessPlugin::getGameState() const {
     auto state = m_chessModule->getState();
     QVariantMap result;
-    result[fen] = QString::fromStdString(state.fen);
-    result[isCheck] = state.isCheck;
-    result[isCheckmate] = state.isCheckmate;
-    result[isStalemate] = state.isStalemate;
-    result[currentPlayer] = QString::fromStdString(state.currentPlayer);
+    result["fen"] = QString::fromStdString(state.fen);
+    result["isCheck"] = state.isCheck;
+    result["isCheckmate"] = state.isCheckmate;
+    result["isStalemate"] = state.isStalemate;
+    result["currentPlayer"] = QString::fromStdString(state.currentPlayer);
     return result;
 }
 

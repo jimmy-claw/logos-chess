@@ -56,7 +56,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /home/jimmy/logos-chess
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jimmy/logos-chess/build-ui-plugin
+CMAKE_BINARY_DIR = /home/jimmy/logos-chess/build-module
 
 # Utility rule file for chess_module_plugin_autogen_timestamp_deps.
 
@@ -66,10 +66,9 @@ include CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/compiler_depen
 # Include the progress variables for this target.
 include CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/progress.make
 
-CMakeFiles/chess_module_plugin_autogen_timestamp_deps: /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/libQt6Qml.so.6.9.2
 CMakeFiles/chess_module_plugin_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/lib/libQt6Core.so.6.9.2
 CMakeFiles/chess_module_plugin_autogen_timestamp_deps: /nix/store/dkfr32yi7p8cdxsnll05q1kax19fl7ay-qtbase-6.9.2/libexec/moc
-CMakeFiles/chess_module_plugin_autogen_timestamp_deps: /tmp/logos-liblogos-merged/lib/liblogos_core.so
+CMakeFiles/chess_module_plugin_autogen_timestamp_deps: /nix/store/agvpq5n8vcqwnkmn8bp8rlczy3fdxm6n-qtdeclarative-6.9.2/lib/libQt6Qml.so.6.9.2
 CMakeFiles/chess_module_plugin_autogen_timestamp_deps: /nix/store/r2cq6la02msp6kfcl9a17d2l2n96qpvs-qtremoteobjects-6.9.2/lib/libQt6RemoteObjects.so.6.9.2
 
 chess_module_plugin_autogen_timestamp_deps: CMakeFiles/chess_module_plugin_autogen_timestamp_deps
@@ -85,6 +84,6 @@ CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/depend:
-	cd /home/jimmy/logos-chess/build-ui-plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jimmy/logos-chess /home/jimmy/logos-chess /home/jimmy/logos-chess/build-ui-plugin /home/jimmy/logos-chess/build-ui-plugin /home/jimmy/logos-chess/build-ui-plugin/CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/jimmy/logos-chess/build-module && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jimmy/logos-chess /home/jimmy/logos-chess /home/jimmy/logos-chess/build-module /home/jimmy/logos-chess/build-module /home/jimmy/logos-chess/build-module/CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/chess_module_plugin_autogen_timestamp_deps.dir/depend
 
