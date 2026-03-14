@@ -9,6 +9,7 @@ find_package(Qt6 REQUIRED COMPONENTS Core Qml)
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
+set(CMAKE_AUTORCC ON)
 
 # ── Logos SDK + liblogos ──────────────────────────────────────────────────────
 set(LOGOS_CPP_SDK_ROOT "" CACHE PATH "Path to logos-cpp-sdk install")
